@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  APIURL: 'https://YOUR-BUBBLE-APPS.bubbleapps.io/version-test/api/1.1/'
 };
 
 /*
