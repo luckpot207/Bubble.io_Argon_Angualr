@@ -1,0 +1,9 @@
+.action-nav {
+    position: fixed;
+    bottom: 20px;
+}
+@media (max-width: 768px) {
+    .action-nav {
+        display: none;
+    }
+}

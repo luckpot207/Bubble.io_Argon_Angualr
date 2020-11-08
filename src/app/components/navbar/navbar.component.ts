@@ -28,6 +28,8 @@ export class NavbarComponent implements OnInit {
     this.auth.getCurrentUser(localStorage.getItem('userId')).subscribe(
       (data: any) => {
         this.user = data.response;
+        console.log(this.user);
+        
       }
     )
   }

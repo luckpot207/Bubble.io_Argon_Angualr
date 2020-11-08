@@ -21,15 +21,21 @@ export const ROUTES: RouteInfo[] = [
     class: ''
   },
   {
-    path: '/user-profile',
-    title: 'User profile',
-    icon: 'ni-single-02 text-yellow',
+    path: '/forms',
+    title: 'Forms',
+    icon: 'ni-single-copy-04 text-pink',
     class: ''
   },
   {
     path: '/tables',
     title: 'Tables',
     icon: 'ni-bullet-list-67 text-red',
+    class: ''
+  },
+  {
+    path: '/user-profile',
+    title: 'User profile',
+    icon: 'ni-single-02 text-yellow',
     class: ''
   },
 ];

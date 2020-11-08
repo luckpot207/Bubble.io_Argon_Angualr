@@ -1,3 +1,4 @@
+import { AuthService } from './../../services/auth.service';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import Chart from 'chart.js';
@@ -23,11 +24,15 @@ export class DashboardComponent implements OnInit {
   public clicked: boolean = true;
   public clicked1: boolean = false;
   constructor(
-    private router : Router
+    private router : Router,
+    private auth : AuthService
   ) {
 
   }
   ngOnInit() {
+    this.auth.getCurrentUser(localStorage.getItem('userId')).subscribe(
+      data=>console.log(data)
+    )
     if (!localStorage.getItem('userToken')) {
       this.router.navigateByUrl('/login')
     }

@@ -1,4 +1,4 @@
-# [Argon Dashboard Angular](https://demos.creative-tim.com/argon-dashboard-angular/?ref=ada-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Dashboard%20is%20a%20Free%20Bootstrap%20and%20Angular%20Dashboard%20made%20using%20angular-cli%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-dashboard-angular%20%23angular%20%23angular-cli%20%23argon%20%23argondesign%20%23angulardashboard%20%23argonangular%20%23angulardesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
+# [Argon Dashboard Angular with Bubble.io as backend](https://demos.creative-tim.com/argon-dashboard-angular/?ref=ada-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Dashboard%20is%20a%20Free%20Bootstrap%20and%20Angular%20Dashboard%20made%20using%20angular-cli%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-dashboard-angular%20%23angular%20%23angular-cli%20%23argon%20%23argondesign%20%23angulardashboard%20%23argonangular%20%23angulardesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
 
 
@@ -6,6 +6,21 @@
 
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-angular/argon-dashboard-angular.gif)
+
+
+
+**Disclaimer**
+
+
+I'm still updating this readme, soon i'll added tutorials how to create database on bubble.
+
+This product originally own by Creative Tim, thanks for creating such an awesome template.
+This repository is Argon dashboard for angular with bubble.io as backend.
+
+**Usage**
+
+To use this template, first you must have bubble.io account, you can use it for free, you can check [here](https://bubble.io)
+
 
 **Fully Coded Components**
 

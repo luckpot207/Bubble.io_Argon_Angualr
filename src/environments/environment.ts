@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  APIURL: 'https://YOUR-BUBBLE-APPS.bubbleapps.io/version-test/api/1.1/'
+  APIURL: 'https://demo-api.bubbleapps.io/version-test/api/1.1/'
 };
 
 /*

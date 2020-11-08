@@ -97,7 +97,7 @@
           </a>
         </li>
       </ul>
-      <div style="position: fixed;bottom: 20px;">
+      <div class="action-nav">
         <ul class="navbar-nav">
           <li *ngFor="let menuItem of accountItems" class="{{menuItem.class}} nav-item">
             <a routerLinkActive="active" [routerLink]="[menuItem.path]" class="nav-link">
